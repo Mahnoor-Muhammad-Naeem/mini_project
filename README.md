@@ -1,2 +1,2 @@
-# mini_prject
+# mini_project
 ...
